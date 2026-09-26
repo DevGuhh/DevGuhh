@@ -1,6 +1,6 @@
-### Hi there 👋, meu nome é Gustavo
-#### Técnico em Informática | Desenvolvedor em formação
-![Técnico em Informática | Desenvolvedor em formação](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# 👋 Olá, eu sou o Gustavo
+
+### Técnico em Informática | Desenvolvedor em formação
 
 💻 Estudante de desenvolvimento de software
 
@@ -10,10 +10,32 @@
 
 📚 Técnico em Informática pelo Senac
 
-Skills: JavaScript Node.js Express PostgreSQL Prisma HTML CSS Git GitHub
+---
 
-- 🔭 I’m currently working on this page. 
+### 🛠️ Tecnologias
 
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- HTML
+- CSS
+- Git
+- GitHub
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevGuhh)  
+---
 
+### 🚀 Projeto em destaque
+
+**Solidare**
+
+Sistema de controle de cestas básicas e gerenciamento de beneficiários.
+
+Desenvolvido como projeto para aplicar conhecimentos de desenvolvimento de software e banco de dados.
+
+---
+
+### 📊 GitHub
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/DevGuhh)
