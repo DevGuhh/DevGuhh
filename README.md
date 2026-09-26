@@ -2,15 +2,6 @@
 
 ### 💻 Técnico em Informática | Desenvolvedor em formação
 
-<p align="left">
-  <a href="https://github.com/DevGuhh">
-    <img src="https://img.shields.io/github/followers/DevGuhh?label=Seguidores&style=for-the-badge" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/DevGuhh">
-    <img src="https://img.shields.io/github/stars/DevGuhh?label=Stars&style=for-the-badge" alt="GitHub stars"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
@@ -62,23 +53,6 @@ Projeto desenvolvido para aplicar conhecimentos de desenvolvimento de software, 
 `JavaScript` `Node.js` `Express` `Prisma` `PostgreSQL`
 
 🔗 **[Ver projeto no GitHub](https://github.com/DevGuhh/solidare_login_v4)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevGuhh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuhh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Atividade
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGuhh&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
