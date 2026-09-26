@@ -1,45 +1,97 @@
-# 👋 Olá, eu sou o Gustavo
+# 👋 Olá, eu sou o Gustavo!
 
-### Técnico em Informática | Desenvolvedor em formação
+### 💻 Técnico em Informática | Desenvolvedor em formação
+
+<p align="left">
+  <a href="https://github.com/DevGuhh">
+    <img src="https://img.shields.io/github/followers/DevGuhh?label=Seguidores&style=for-the-badge" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/DevGuhh">
+    <img src="https://img.shields.io/github/stars/DevGuhh?label=Stars&style=for-the-badge" alt="GitHub stars"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mim
 
 💻 Estudante de desenvolvimento de software
 
-🌱 Atualmente estudando desenvolvimento web e programação
+🌱 Atualmente estudando **desenvolvimento web, backend e bancos de dados**
 
-🚀 Desenvolvendo projetos para praticar e construir meu portfólio
+🛠️ Gosto de aprender desenvolvendo projetos práticos
 
-📚 Técnico em Informática pelo Senac
+📚 Técnico em Informática pelo **Senac**
 
----
-
-### 🛠️ Tecnologias
-
-- JavaScript
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- HTML
-- CSS
-- Git
-- GitHub
+🎯 Buscando evoluir continuamente minhas habilidades em programação
 
 ---
 
-### 🚀 Projeto em destaque
+## 🛠️ Tecnologias
 
-**Solidare**
+### 💻 Desenvolvimento
 
-Sistema de controle de cestas básicas e gerenciamento de beneficiários.
-
-Desenvolvido como projeto para aplicar conhecimentos de desenvolvimento de software e banco de dados.
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/DevGuhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevGuhh" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a></p>
+### 🗄️ Banco de dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" />
+</p>
+
+### 🔧 Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🧺 Solidare
+
+**Sistema de controle de cestas básicas e gerenciamento de beneficiários.**
+
+Projeto desenvolvido para aplicar conhecimentos de desenvolvimento de software, APIs, autenticação e banco de dados.
+
+**Tecnologias utilizadas:**
+
+`JavaScript` `Node.js` `Express` `Prisma` `PostgreSQL`
+
+🔗 **[Ver projeto no GitHub](https://github.com/DevGuhh/solidare_login_v4)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevGuhh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuhh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGuhh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://github.com/DevGuhh">
+    <img src="https://img.shields.io/badge/GitHub-DevGuhh-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo projetos, aprendendo todos os dias e evoluindo como desenvolvedor. 🚀</i>
+</p>
